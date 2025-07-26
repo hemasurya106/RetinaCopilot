@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+Pillow<11.0.0
+numpy
+pandas
+matplotlib
+opencv-python
+PyYAML
+google-generativeai<0.8.0
+python-dotenv
+fpdf==1.7.2
