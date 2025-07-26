@@ -117,7 +117,7 @@ streamlit run pages/project.py
 
 ## 📬 Contact
 - **Author:** Hemasurya (or your name/team)
-- **Email:** <your-email@example.com>
+- **Email:** hemasurya469@gmail.com
 - **GitHub:** <your-github-url>
 
 For questions, suggestions, or collaborations, please open an issue or contact us!
